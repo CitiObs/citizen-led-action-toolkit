@@ -10,7 +10,7 @@ The actions resulting from this co-creation process will be different depending 
 
 ### **How can this be done?**
 
-This section builds upon other sections of this toolkit, such as [_How can we boost the visibility of our action?_](broken-reference)and the[_What do we have to consider when our action takes place?_](broken-reference). Using the digital presence channels, the community could think of sharing the tools employed online, or even publishing the work formally. An additional tool could be to share any design or work in open repositories listed below.
+This section builds upon other sections of this toolkit, such as [_How can we boost the visibility of our action?_](../implementation/how-can-we-boost-the-visibility-of-our-citizen-led-action.md) and the [_What do we have to consider when our action takes place?_](../implementation/what-to-consider-when-our-citizen-led-action-takes-place.md). Using the digital presence channels, the community could think of sharing the tools employed online, or even publishing the work formally. An additional tool could be to share any design or work in open repositories listed below.
 
 #### Open repositories
 

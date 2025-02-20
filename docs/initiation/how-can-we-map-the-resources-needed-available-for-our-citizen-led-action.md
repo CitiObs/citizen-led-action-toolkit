@@ -2,7 +2,7 @@
 
 ### **Description**
 
-An important step in the co-creation and implementation of the citizen-led action, is to have a clear understanding of the resources available to us and to be aware of those that we will require. This involves identifying the community, spaces, and tools at our disposal, as well as the data, information, communication resources that can aid us. Additionally, it can be helpful to reflect on which skills or competencies are currently present or missing in the group. This reflection can help identify new team members such as creatives, or other potential collaborators in the local context. In the [Working with creatives Section](broken-reference), we will also see how the role of creatives, artists and initiatives can complement the missing skills, know-how, resources, providing a creative perspective in a mutually beneficial exchange.
+An important step in the co-creation and implementation of the citizen-led action, is to have a clear understanding of the resources available to us and to be aware of those that we will require. This involves identifying the community, spaces, and tools at our disposal, as well as the data, information, communication resources that can aid us. Additionally, it can be helpful to reflect on which skills or competencies are currently present or missing in the group. This reflection can help identify new team members such as creatives, or other potential collaborators in the local context. In the [Working with creatives Section](../working-with-creatives/), we will also see how the role of creatives, artists and initiatives can complement the missing skills, know-how, resources, providing a creative perspective in a mutually beneficial exchange.
 
 ### **Why is it relevant?**&#x20;
 
