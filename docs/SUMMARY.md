@@ -5,6 +5,7 @@
   * [How to navigate this toolkit](welcome/how-to-navigate-this-toolkit.md)
   * [Cross-cutting values](welcome/cross-cutting-values.md)
   * [Roots and potential connections](welcome/roots-and-potential-connections.md)
+* [Contributing](contributing.md)
 * [Initiation](initiation/README.md)
   * [How do we drive energy, urgency and enthusiasm within the CO?](initiation/how-do-we-drive-energy-urgency-and-enthusiasm-within-the-co.md)
   * [How can we narrow down ideas and start taking action?](initiation/how-can-we-narrow-down-ideas-and-start-taking-action.md)
