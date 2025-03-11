@@ -2,7 +2,7 @@
 
 ### **Description**
 
-Involving local creatives in citizen-led actions can aid in combining different approaches and dynamic practices to create impactful experiences for diverse audiences (more on this [in this section](broken-reference)). There are many other ways we can build these connections depending on our needs and expectations: simply by reaching out to already known local groups or by creating open calls or hackathons. However, the focus here is to provide tools for COs to define what is expected from external collaborators, what level of experience is required, and what skills are needed. Then, tools and guidelines are provided aiming to support the process of reaching out to creative individuals and communities and promote a mutually beneficial relationship between the participants.
+Involving local creatives in citizen-led actions can aid in combining different approaches and dynamic practices to create impactful experiences for diverse audiences (more on this [in this section](what-are-the-opportunities-for-creative-collaborations-with-citizen-led-actions.md)). There are many other ways we can build these connections depending on our needs and expectations: simply by reaching out to already known local groups or by creating open calls or hackathons. However, the focus here is to provide tools for COs to define what is expected from external collaborators, what level of experience is required, and what skills are needed. Then, tools and guidelines are provided aiming to support the process of reaching out to creative individuals and communities and promote a mutually beneficial relationship between the participants.
 
 ### **Why is it relevant?**
 

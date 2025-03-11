@@ -6,7 +6,7 @@ Citizen Observatories can trigger a variety of positive changes. Their impacts c
 
 ### **Why is it relevant?**
 
-The Citizen Observatory should collectively define the scale and complexity of the citizen-led action, and agree on the intended goals of the action before embarking on the planning and implementation phases. Different goals will shape what type of steps need to be taken, what resources are required, and what expertise and skills are needed (see [Resources Mapping Section](broken-reference) for more information). For instance, if the goal is to gain visibility of an environmental issue, the CO might want to focus on actions that involve strong presence in (social) media, whereas actions directed towards denouncing an issue, might require collective interventions in the public space. Therefore, approaching this process collectively debated and decided upon, will help establish effective strategies and action plans from the start and will allow us to measure progress, and obtain relevant indicators throughout the execution of our action, providing valuable insights into whether we have achieved our desired results.
+The Citizen Observatory should collectively define the scale and complexity of the citizen-led action, and agree on the intended goals of the action before embarking on the planning and implementation phases. Different goals will shape what type of steps need to be taken, what resources are required, and what expertise and skills are needed (see [Resources Mapping Section](how-can-we-map-the-resources-needed-available-for-our-citizen-led-action.md) for more information). For instance, if the goal is to gain visibility of an environmental issue, the CO might want to focus on actions that involve strong presence in (social) media, whereas actions directed towards denouncing an issue, might require collective interventions in the public space. Therefore, approaching this process collectively debated and decided upon, will help establish effective strategies and action plans from the start and will allow us to measure progress, and obtain relevant indicators throughout the execution of our action, providing valuable insights into whether we have achieved our desired results.
 
 ### **How can this be done?**
 
@@ -19,7 +19,7 @@ Key **questions** to be addressed include:
 * What are the desired outcomes, both tangible and intangible? (e.g., a wider awareness of the importance of good air quality, or enhanced engagement between a local authority and communities in local environmental plans)
 * What are the project outputs (e.g., creative materials produced during workshops or activities, films, blogs, photos, podcasts documenting the project process, recommendations, strategies or action plans that will be informed by project learning)
 
-As a guidance, some of these questions will help understanding the scope of the project and help us defining next steps. For example, for citizen-led actions that are larger in scale or outcomes, might want to visit the [impact measurement section](broken-reference) too. Below we include some tools that can help navigate this process:
+As a guidance, some of these questions will help understanding the scope of the project and help us defining next steps. For example, for citizen-led actions that are larger in scale or outcomes, might want to visit the [impact measurement section](../reflection/how-can-we-measure-the-impacts-of-our-citizen-led-action.md) too. Below we include some tools that can help navigate this process:
 
 #### Guide to write SMART+C objectives
 
